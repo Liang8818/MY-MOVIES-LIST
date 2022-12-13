@@ -1,5 +1,5 @@
-const BASE_URL = 'https://movie-list.alphacamp.io'
-const INDEX_URL = BASE_URL + '/api/v1/movies/'
+const BASE_URL = 'https://webdev.alphacamp.io'
+const INDEX_URL = BASE_URL + '/api/movies/'
 const POSTER_URL = BASE_URL + '/posters/'
 const MOVIES_PER_PAGE = 12
 
